@@ -2,12 +2,12 @@
 Firefox Integration Alternatives  >> FIA,  manager integration firefox web-browser in OS.
 
 # Встановлення 
-Завантаження >> 
+Завантаження >>   
 
 
-' git clone https://github.com/VitaliyNa92/FIA-manager.git '
-Запуск       >>  
+'git clone https://github.com/VitaliyNa92/FIA-manager.git'
+Запуск       >>      
 
 
-' ./fia-manager.py '
+'./fia-manager.py'
 
