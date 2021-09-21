@@ -3,7 +3,11 @@ Firefox Integration Alternatives  >> FIA,  manager integration firefox web-brows
 
 # Встановлення 
 Завантаження >> 
-git clone https://github.com/VitaliyNa92/FIA-manager.git
-Запуск       >> 
-./fia-manager.py
+
+
+' git clone https://github.com/VitaliyNa92/FIA-manager.git '
+Запуск       >>  
+
+
+' ./fia-manager.py '
 
