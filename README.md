@@ -15,10 +15,3 @@ Firefox Integration Alternatives  >> FIA,  manager integration firefox web-brows
 Запуск       >>      
 
 `./fia-manager.py` 
-
-
-або 
-
-
-`python3 fia-manager.py`
-
